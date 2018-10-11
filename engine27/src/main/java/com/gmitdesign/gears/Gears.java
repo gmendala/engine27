@@ -1,4 +1,4 @@
-package main.java.com.gmitdesign.gears;
+package com.gmitdesign.gears;
 
 public class Gears
 {

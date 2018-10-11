@@ -1,5 +1,5 @@
-package main.java.com.gmitdesign.processor;
-import main.java.com.gmitdesign.gears.*;
+package com.gmitdesign.processor;
+import com.gmitdesign.gears.*;
 
 public class CommandExecutor
 {

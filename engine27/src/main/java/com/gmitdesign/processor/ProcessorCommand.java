@@ -1,4 +1,4 @@
-package main.java.com.gmitdesign.processor;
+package com.gmitdesign.processor;
 
 public class ProcessorCommand
 {
